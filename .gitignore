@@ -1,5 +1,12 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
+# Custom
+hidden/
+confidential/
+*.c
+*.cpp
+*.cs
+
+
+# Byte-compiled / optimized / DLL files 
 *.py[cod]
 *$py.class
 
